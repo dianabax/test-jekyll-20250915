@@ -22,8 +22,8 @@ title: Jekylliana
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Creating Diana's amazing Jekyll site <3
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://dianabax/github.io/test-jekyll-20250915" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
