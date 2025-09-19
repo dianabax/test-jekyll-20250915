@@ -14,6 +14,6 @@ categories: dogs
 <img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-02.png">
 
 # Bonus Baby Pictures <3
-<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-06.jpg">
+<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-06.JPG">
 
-<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-07.jpg">
+<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-07.JPG">
