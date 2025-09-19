@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Diana Baxter is pursuing a Masters of Science in Information at the University of Michigan. She works in the Manuscripts Division of the William L. Clements Library and dearly misses her dogs, Mia and Brody.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -13,8 +13,6 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
-Minimalista
 
 
 [jekyll-organization]: https://github.com/jekyll
