@@ -8,7 +8,9 @@ categories: dogs
 **These are my dogs, Mia and Brody. Brody will be 12 in December, and Mia just turned 6 in August. How time flies! We have had both of them since they were puppies.**
 
 # Mia
-<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-05.png">
+![Picture of a dog named Mia]({{ site.baseurl }}assets/img/dog-05.png "Picture of the dog Mia")
+
+<!--<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-05.png">-->
 
 # Brody
 <img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-02.png">
