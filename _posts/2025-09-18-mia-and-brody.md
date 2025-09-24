@@ -17,8 +17,8 @@ categories: dogs
 <!--img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-02.png">-->
 
 # Bonus Baby Pictures <3
-![Baby picture of a dog named Mia]({{site.baseurl}}assets/img/dog-06.png "Baby picture of the dog Mia")
+![Baby picture of a dog named Mia]({{site.baseurl}}assets/img/dog-06.jpg "Baby picture of the dog Mia")
 <!--img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-06.JPG">-->
 
-![Baby picture of a dog named Brody]({{site.baseurl}}assets/img/dog-07.png "Baby picture of the dog Brody")
+![Baby picture of a dog named Brody]({{site.baseurl}}assets/img/dog-07.jpg "Baby picture of the dog Brody")
 <!--img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-07.JPG">-->
