@@ -13,9 +13,12 @@ categories: dogs
 <!--<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-05.png">-->
 
 # Brody
-<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-02.png">
+![Picture of a dog named Brody]({{site.baseurl}}assets/img/dog-02.png "Picture of the dog Brody")
+<!--img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-02.png">-->
 
 # Bonus Baby Pictures <3
-<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-06.JPG">
+![Baby picture of a dog named Mia]({{site.baseurl}}assets/img/dog-06.png "Baby picture of the dog Mia")
+<!--img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-06.JPG">-->
 
-<img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-07.JPG">
+![Baby picture of a dog named Brody]({{site.baseurl}}assets/img/dog-07.png "Baby picture of the dog Brody")
+<!--img src="https://dianabax.github.io/test-jekyll-20250915/assets/img/dog-07.JPG">-->
